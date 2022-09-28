@@ -1,0 +1,21 @@
+.naranja {
+background-color: #D2691E;
+margin: 15px 10px ;
+padding: 20px;
+color: white;
+font-family: sans-serif;
+border-radius: 20px;
+box-shadow: -13px -6px 8px 0px rgba(0,0,0,0.75);
+
+}
+ body { 
+    text-align: justify;
+
+}
+  h1{
+    text-align: center;
+  }
+  img{
+    width: 100%;
+   
+  }
